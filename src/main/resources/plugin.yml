@@ -1,0 +1,10 @@
+name: "EmeraldMC"
+version: "${version}"
+main: "org.eu.maxelbk.emeraldmc.EmeraldCore"
+api-version: "1.18"
+prefix: "EmeraldMC"
+load: STARTUP
+authors:
+  - "Maxel Black"
+description: "A Powerful Server Enhancing Plugin"
+website: "https://emc.maxelbk.eu.org"
