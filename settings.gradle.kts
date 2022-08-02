@@ -1,1 +1,1 @@
-rootProject.name = "EmeraldMC"
+rootProject.name = "emeraldmc-core"
